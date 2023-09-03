@@ -1,0 +1,36 @@
+.Frame57_1_190 {
+  z-index: 1;
+  width: min(165px, 100%);
+  min-height: 51px;
+  background-color: rgba(
+    242.00000077486038,
+    122.00000032782555,
+    68.00000354647636,
+    1
+  );
+  border: none;
+  border-radius: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.TEXT_1_191 {
+  z-index: 1;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 0px;
+  line-height: 19.363636016845703px;
+}

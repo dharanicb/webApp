@@ -1,0 +1,26 @@
+.Frame11_1_434 {
+  z-index: 3;
+  width: min(296px, 100%);
+  min-height: 290px;
+  background-color: rgba(255, 255, 255, 1);
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.TEXT_1_438 {
+  z-index: 2;
+  color: rgba(45.00000111758709, 46.000001057982445, 46.000001057982445, 1);
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  vertical-align: top;
+  letter-spacing: 0px;
+  line-height: 22px;
+}

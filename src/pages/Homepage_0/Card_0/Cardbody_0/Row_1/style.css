@@ -1,0 +1,14 @@
+.Row_1_368 {
+  z-index: 3;
+  width: min(361.8677062988281px, 100%);
+  min-height: 85.36576080322266px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 11.673152923583984px;
+}

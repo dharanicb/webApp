@@ -1,0 +1,38 @@
+.Mediacontent_1_244 {
+  z-index: 2;
+  width: min(220px, 100%);
+  min-height: 70px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 3px;
+}
+
+.TEXT_1_245 {
+  z-index: 1;
+  color: rgba(0, 0, 0, 1);
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 0px;
+  line-height: 21.09375px;
+}
+
+.TEXT_1_246 {
+  z-index: 2;
+  color: rgba(0, 0, 0, 1);
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 0.5px;
+  line-height: 23px;
+}

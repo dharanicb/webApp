@@ -1,0 +1,38 @@
+.Frame99_1_258 {
+  z-index: 1;
+  width: min(447px, 100%);
+  min-height: 116px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.TEXT_1_259 {
+  z-index: 1;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 40px;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 0px;
+  line-height: 48.409088134765625px;
+}
+
+.TEXT_1_260 {
+  z-index: 2;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 0px;
+  line-height: 24.204544067382812px;
+}

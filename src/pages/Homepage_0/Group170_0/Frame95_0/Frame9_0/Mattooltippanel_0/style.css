@@ -1,0 +1,16 @@
+.Mattooltippanel_1_422 {
+  z-index: 4;
+  width: min(296px, 100%);
+  min-height: 120px;
+  background-color: transparent;
+  border: none;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 16px;
+}

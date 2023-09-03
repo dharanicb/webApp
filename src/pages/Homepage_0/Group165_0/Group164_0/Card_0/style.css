@@ -1,0 +1,22 @@
+.Card_1_229 {
+  transform: translate(0px, 0px) rotate(0deg) scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: min(360px, 100%);
+  min-height: 130px;
+  background-color: rgba(255, 255, 255, 1);
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0px 3.1255478858947754px 5.925629615783691px
+      rgba(0, 0, 0, 0.036350347101688385),
+    0px 47px 152px rgba(0, 0, 0, 0.09000000357627869);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 10px;
+}

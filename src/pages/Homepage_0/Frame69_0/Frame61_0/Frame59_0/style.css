@@ -1,0 +1,14 @@
+.Frame59_1_189 {
+  z-index: 1;
+  width: min(165px, 100%);
+  min-height: 51px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 40px;
+}

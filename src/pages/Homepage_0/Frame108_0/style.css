@@ -1,0 +1,42 @@
+.Frame108_1_443 {
+  transform: translate(378px, 5159px) rotate(0deg) scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: min(688px, 100%);
+  min-height: 172px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+
+.TEXT_1_444 {
+  z-index: 1;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 40px;
+  text-align: center;
+  vertical-align: top;
+  letter-spacing: 0px;
+  line-height: 48.409088134765625px;
+}
+
+.TEXT_1_445 {
+  z-index: 2;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  vertical-align: top;
+  letter-spacing: 0px;
+  line-height: 22px;
+}

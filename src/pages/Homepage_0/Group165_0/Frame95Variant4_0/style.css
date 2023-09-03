@@ -1,0 +1,18 @@
+.Frame95Variant4_1_256 {
+  transform: translate(611px, 219px) rotate(0deg) scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: min(447px, 100%);
+  min-height: 397px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 60px;
+}

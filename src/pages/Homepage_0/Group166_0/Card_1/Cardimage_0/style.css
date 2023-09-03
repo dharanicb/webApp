@@ -1,0 +1,20 @@
+.Cardimage_1_283 {
+  z-index: 1;
+  width: min(360px, 100%);
+  min-height: 327px;
+  background-image: url(https://s3-alpha-sig.figma.com/img/6df4/1605/981a67271e99db05ef80f9a44adfc731?Expires=1694390400&Signature=qonOx9FDeahJrHNE07~BYlDzh7wLfm7mwDMmcXymQuJrhUhx9Nrk2OWWNI2b40EQTfe7y1SVdEL1ap801svHGqwHKnnSBXIAEdf~X6p9gdJLfASAfEsAm2w0InnJvci25N5SHsR1JN4hahrLt2pKjmSgq1Q77u9-yF~YizcajjW6kbZgE3zYH~PnR0U~~ESdrGANLTlLmvX5~6qWXTl4kAlhaZTTxKykHo~OL~j04GAmQO5bdnxj2ucqTiBqX3LWtfBvGLn8zchboBOaRiL~TmHTGXfYbynCwQBOOarbiJLSgT8MqiWEq9RAjJn8XJtdgsSharrw5OO7F20XIlR0hw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-size: cover;
+  background-position: center;
+  border: none;
+  border-radius: 20px;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 38px;
+  padding-bottom: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}

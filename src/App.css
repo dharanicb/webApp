@@ -28,6 +28,135 @@
   color: #61dafb;
 }
 
+.main-div {
+  padding: 60px 100px;
+  background-color: white;
+}
+
+.sub-div {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 15px 0px;
+}
+.header-div {
+  display: flex;
+  gap: 40px;
+}
+.offer-course {
+  display: flex;
+  gap: 40px;
+}
+.discover-div{
+  padding:0px 0px 120px 80px;
+  background:#ffa5000f;
+}
+.discover-text {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+}
+.student-text {
+  font-family: Inter;
+  font-size: 80px;
+  font-weight: 500;
+  line-height: 100px;
+  letter-spacing: 0em;
+}
+.detination-text {
+  font-family: Inter;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 100px;
+  letter-spacing: 0em;
+}
+.mrg-top-12 {
+  margin-top: 12px;
+}
+.sit-text {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  margin-top: 32px;
+  color: #505c59;
+}
+.sign-btn {
+  background: #ff7200;
+  border: none;
+  padding: 10px;
+  border-radius: 22px;
+  color: white;
+  font-size: 18px;
+  margin-top: 36px;
+}
+.text-col {
+  padding-top: 190px;
+}
+.card-main-div {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  margin-bottom: 36px;
+}
+.card-div {
+  border: none;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+}
+.sit-text2 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  line-height: 24px;
+}
+.adventure-text {
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.student-text2 {
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.student-tropical {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 10px;
+}
+.list-div {
+  margin-top: 12px;
+}
+.circle-div {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 24px;
+  margin-top: 24px;
+}
+.circle-span {
+  border: 22px solid #87cc814a;
+  padding: 28px;
+  border-radius: 50%;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +165,85 @@
     transform: rotate(360deg);
   }
 }
+
+.h{
+  color: #1F2027;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.boldText{
+  color: #1F2027;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.notBold{
+  color: #1F2027;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.btnExplore{
+  border-radius: 30px;
+background: #F27A44;
+display: flex;
+padding: 16px 40px;
+justify-content: center;
+align-items: center;
+color: #FFF;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border:none;
+outline:none;
+marign-top:60px
+}
+
+.thisFOrm{
+  padding:0px 29px;
+  width: 420.233px;
+  border-radius: 23.346px;
+background: #FFF;
+box-shadow: 0px 4.42478px 6.21021px 0px rgba(0, 0, 0, 0.03), 0px 14.8619px 20.85881px 0px rgba(0, 0, 0, 0.04), 0px 66.53697px 93.38522px 0px rgba(0, 0, 0, 0.07);
+}
+.bookNOw{
+  color: #000;
+font-family: Roboto;
+font-size: 32.685px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+height:'500px'
+}
+.EnterCity{
+  border-radius: 11.673px;
+border: 0px solid #000;
+background: #F3F3F3;
+width:100%;
+height: 52.529px;
+outline:none;
+padding:12px;
+}
+.city{
+  color: #000;
+font-family: Roboto;
+font-size: 12.84px;
+font-style: normal;
+font-weight: 500;
+line-height: 26.848px; /* 209.091% */
+letter-spacing: 0.584px;
+text-transform: uppercase;
+}
+

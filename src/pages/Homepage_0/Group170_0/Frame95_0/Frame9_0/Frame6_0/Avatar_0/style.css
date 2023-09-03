@@ -1,0 +1,8 @@
+.Avatar_1_418 {
+  z-index: 1;
+  width: 100px;
+  min-height: 100px;
+  background-color: rgba(255, 255, 255, 1);
+  border: none;
+  position: relative;
+}

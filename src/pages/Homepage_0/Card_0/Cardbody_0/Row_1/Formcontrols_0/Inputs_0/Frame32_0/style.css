@@ -1,0 +1,23 @@
+.Frame32_1_372 {
+  z-index: 1;
+  width: min(44.357975006103516px, 100%);
+  min-height: 52.52918243408203px;
+  background-color: rgba(
+    235.0000011920929,
+    235.0000011920929,
+    235.0000011920929,
+    1
+  );
+  border: none;
+  border-radius: 0px 11.673152923583984px 11.673152923583984px 0px;
+  padding-left: 15.175098419189453px;
+  padding-right: 15.175098419189453px;
+  padding-top: 15.175098419189453px;
+  padding-bottom: 15.175098419189453px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}

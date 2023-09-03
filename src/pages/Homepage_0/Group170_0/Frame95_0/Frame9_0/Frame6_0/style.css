@@ -1,0 +1,14 @@
+.Frame6_1_417 {
+  z-index: 1;
+  width: min(100px, 100%);
+  min-height: 100px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 16px;
+}

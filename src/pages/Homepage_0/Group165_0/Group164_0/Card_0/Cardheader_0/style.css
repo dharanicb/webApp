@@ -1,0 +1,18 @@
+.Cardheader_1_230 {
+  z-index: 1;
+  width: min(360px, 100%);
+  min-height: 130px;
+  background-color: transparent;
+  border: none;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 15px;
+}

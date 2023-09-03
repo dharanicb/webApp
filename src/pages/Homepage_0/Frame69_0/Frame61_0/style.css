@@ -1,0 +1,14 @@
+.Frame61_1_188 {
+  z-index: 3;
+  width: min(165px, 100%);
+  min-height: 51px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 20px;
+}

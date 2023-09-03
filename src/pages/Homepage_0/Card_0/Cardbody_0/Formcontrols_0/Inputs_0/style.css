@@ -1,0 +1,32 @@
+.Inputs_1_357 {
+  z-index: 2;
+  width: min(359.5330810546875px, 100%);
+  min-height: 52.52918243408203px;
+  background-color: rgba(
+    243.31249594688416,
+    243.31249594688416,
+    243.31249594688416,
+    1
+  );
+  box-sizing: border-box;
+  border: 0px solid rgba(0, 0, 0, 1);
+  border-radius: 11.673152923583984px;
+  padding-left: 17.509729385375977px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.TEXT_1_358 {
+  z-index: 1;
+  color: rgba(120.12890473008156, 133.07811588048935, 143.4375, 1);
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14.007782936096191px;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 0.5836576223373413px;
+  line-height: 26.848251342773438px;
+}

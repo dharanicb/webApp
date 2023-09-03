@@ -1,0 +1,18 @@
+.Frame95_1_415 {
+  transform: translate(0px, 118px) rotate(0deg) scale(1, 1);
+  transform-origin: 1px 1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: min(1088px, 100%);
+  min-height: 290px;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 100px;
+}
